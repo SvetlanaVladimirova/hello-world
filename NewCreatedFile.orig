@@ -5,5 +5,8 @@ Update  and commit
 
 the next commit
 
+<<<<<<< HEAD
 test 2
+=======
 test 3
+>>>>>>> 6d75214... New branch commit
